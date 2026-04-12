@@ -1,4 +1,4 @@
-using Infrastructure.MassTransit.DependencyInjection;
+using Infrastructure.Messaging.Configuration;
 using Infrastructure.Persistence;
 using Infrastructure.Services;
 
