@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IndieGames.Application" Version="0.1.82" />
+    <PackageReference Include="IndieGames.Application" Version="0.1.92" />
     <PackageReference Include="IndieGames.Domain" Version="0.1.39" />
-    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.57" />
+    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.62" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.4" />
   </ItemGroup>
 </Project>
