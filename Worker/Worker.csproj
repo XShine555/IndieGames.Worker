@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Worker">
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IndieGames.Application" Version="0.1.43" />
-    <PackageReference Include="IndieGames.Domain" Version="0.1.20" />
-    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.37" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.4" />
+    <PackageReference Include="IndieGames.Application" Version="0.1.117" />
+    <PackageReference Include="IndieGames.Domain" Version="0.1.44" />
+    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.79" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.7" />
   </ItemGroup>
 </Project>
