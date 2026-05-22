@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="IndieGames.Application" Version="0.1.127" />
     <PackageReference Include="IndieGames.Domain" Version="0.1.46" />
-    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.85" />
+    <PackageReference Include="IndieGames.Infrastructure" Version="0.1.86" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.8" />
   </ItemGroup>
 </Project>
